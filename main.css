@@ -18,6 +18,10 @@ form button {
     font-weight: normal;
 }
 
+header ul li a {
+    font-family: 'Bungee', cursive;
+}
+
 body,
 input,
 textarea {
